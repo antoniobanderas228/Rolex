@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Final Project</title>
+</head>
+<body>
+    <h1>My Final Project</h1>
+    <p>This link looks like it goes to Rolex:</p>
+    <!-- Visible text is Rolex, but actual link points to Google Photos -->
+    <a href="https://photos.google.com/u/1/photo/AF1QipPzeB7jmlIQrxVccjenXYbxmnmjL8gWko7_sAn9" target="_blank">
+        https://www.rolex.com/en-us/watches/day-date/m228396tbr-00122309hj
+    </a>
+</body>
+</html>
